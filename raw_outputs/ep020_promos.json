@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 20",
+  "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 20",
+      "promo_id": "EP020_PROMO_03",
+      "start_time": "01:06.70",
+      "end_time": "01:49.20",
+      "duration_sec": 42.5,
+      "hook_text": "JULIANA: \"\"If I stop, Seamus, the lung fever in the valley wins.\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "CATHERINE: \"\"This house will only bow to me.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by cruel (x1), cold (x3), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 9.2
+    },
+    {
+      "episode": "Episode 20",
+      "promo_id": "EP020_PROMO_02",
+      "start_time": "00:10.90",
+      "end_time": "01:10.50",
+      "duration_sec": 59.6,
+      "hook_text": "RUPERT: \"\"The estate is practically ours.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"I do not yield to a cold draft.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by marry (x2), cruel (x1), cold (x3) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 20",
+      "promo_id": "EP020_PROMO_04",
+      "start_time": "00:36.90",
+      "end_time": "01:32.40",
+      "duration_sec": 55.5,
+      "hook_text": "CATHERINE: \"\"How much longer can the frail thing survive?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Let the peasants rot in their barns.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by cruel (x1), cold (x2), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 20",
+      "promo_id": "EP020_PROMO_01",
+      "start_time": "00:00.00",
+      "end_time": "00:25.40",
+      "duration_sec": 25.4,
+      "hook_text": "CATHERINE: \"\"Two lumps of sugar, Rupert?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "RUPERT: \"\"...the title is mine.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by marry (x2), cold (x2), mine (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

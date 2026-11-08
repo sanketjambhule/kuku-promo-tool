@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 25",
+  "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 25",
+      "promo_id": "EP025_PROMO_01",
+      "start_time": "00:32.80",
+      "end_time": "01:21.80",
+      "duration_sec": 49.0,
+      "hook_text": "ALEXANDER: \"\"Who?\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "JULIANA: \"\"Poison.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), poison (x1), truth (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 25",
+      "promo_id": "EP025_PROMO_04",
+      "start_time": "02:05.80",
+      "end_time": "02:31.20",
+      "duration_sec": 25.4,
+      "hook_text": "JULIANA: \"\"Alexander... why are you so angry?\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "JULIANA: \"\"I cannot abandon her.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 25",
+      "promo_id": "EP025_PROMO_02",
+      "start_time": "00:52.20",
+      "end_time": "01:51.20",
+      "duration_sec": 59.0,
+      "hook_text": "JULIANA: \"\"I went there to help someone.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"With Prudence.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), poison (x1), truth (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 25",
+      "promo_id": "EP025_PROMO_03",
+      "start_time": "01:16.80",
+      "end_time": "02:13.80",
+      "duration_sec": 57.0,
+      "hook_text": "ALEXANDER: \"\"What did you find?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"Because you were standing inside a house where someone is poisoning a woma\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by poison (x1), truth (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 25",
+      "promo_id": "EP025_PROMO_05",
+      "start_time": "00:05.10",
+      "end_time": "01:02.50",
+      "duration_sec": 57.4,
+      "hook_text": "ALEXANDER: \"\"Juliana.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"The Dowager?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), truth (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 45",
+  "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 45",
+      "promo_id": "EP045_PROMO_01",
+      "start_time": "00:24.60",
+      "end_time": "01:06.80",
+      "duration_sec": 42.2,
+      "hook_text": "ALEXANDER: \"\"Alexander Ashburton. The rightful Duke of Ashburton.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"You hurt the two women who mattered most to me: my mother, and my wife.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), wedding (x1), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 45",
+      "promo_id": "EP045_PROMO_03",
+      "start_time": "00:46.10",
+      "end_time": "01:45.50",
+      "duration_sec": 59.4,
+      "hook_text": "ALEXANDER: \"\"And I loved you before I ever dared to tell you.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "HIGH PRIEST: \"\"These vows were never entered into the Royal Matrimonial Register.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by wedding (x1), furious (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 45",
+      "promo_id": "EP045_PROMO_02",
+      "start_time": "00:02.80",
+      "end_time": "00:51.50",
+      "duration_sec": 48.7,
+      "hook_text": "JULIANA: \"\"Alexander...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Alexander...\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x2), wedding (x1), desperate (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 45",
+      "promo_id": "EP045_PROMO_04",
+      "start_time": "01:33.00",
+      "end_time": "01:53.00",
+      "duration_sec": 20.0,
+      "hook_text": "HIGH PRIEST: \"\"This ceremony was performed without a Crown marriage license, by a priest \"",
+      "hook_rating": 4,
+      "cliffhanger_text": "HIGH PRIEST: \"\"You are not Alexander Ashburton's lawful wife.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 45",
+      "promo_id": "EP045_PROMO_05",
+      "start_time": "01:41.50",
+      "end_time": "02:01.75",
+      "duration_sec": 20.25,
+      "hook_text": "HIGH PRIEST: \"\"These vows were never entered into the Royal Matrimonial Register.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: Slow push-in close-up on Catherine beneath her veil, her initial despair morphin",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.0
+    }
+  ]
+}

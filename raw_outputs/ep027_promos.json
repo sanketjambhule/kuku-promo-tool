@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 27",
+  "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 27",
+      "promo_id": "EP027_PROMO_01",
+      "start_time": "01:26.50",
+      "end_time": "02:24.90",
+      "duration_sec": 58.4,
+      "hook_text": "JULIANA: \"\"Because she was dying!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "BLOND NOBLEMAN: \"\"Take her.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), poison (x3), outrage (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 27",
+      "promo_id": "EP027_PROMO_04",
+      "start_time": "00:21.80",
+      "end_time": "01:20.50",
+      "duration_sec": 58.7,
+      "hook_text": "JULIANA: \"\"No. He lives in a barn. He has nothing but his word.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY CATHERINE: \"\"Who permitted you to give medicine to the Duchess?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), tears (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 27",
+      "promo_id": "EP027_PROMO_02",
+      "start_time": "01:00.00",
+      "end_time": "01:59.80",
+      "duration_sec": 59.8,
+      "hook_text": "LADY CATHERINE: \"\"What are you hiding?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "BLOND NOBLEMAN: \"\"Poison.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by poison (x2), truth (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 27",
+      "promo_id": "EP027_PROMO_03",
+      "start_time": "00:01.30",
+      "end_time": "00:46.40",
+      "duration_sec": 45.1,
+      "hook_text": "DOWAGER DUCHESS: \"\"This ring...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "DOWAGER DUCHESS: \"\"What is your husband's name?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), tears (x1), desperate (x3) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

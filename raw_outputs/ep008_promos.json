@@ -1,0 +1,49 @@
+{
+  "episode": "Episode 8",
+  "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+  "total_promos": 3,
+  "promos": [
+    {
+      "episode": "Episode 8",
+      "promo_id": "EP008_PROMO_01",
+      "start_time": "00:33.20",
+      "end_time": "01:12.10",
+      "duration_sec": 38.9,
+      "hook_text": "ALEXANDER: \"\"Not yet.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"I thought losing wealth meant losing everything.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 8",
+      "promo_id": "EP008_PROMO_02",
+      "start_time": "00:12.00",
+      "end_time": "00:46.80",
+      "duration_sec": 34.8,
+      "hook_text": "ALEXANDER: \"\"Good for wounds. Fever, too.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Very well.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 8",
+      "promo_id": "EP008_PROMO_03",
+      "start_time": "00:00.20",
+      "end_time": "00:26.80",
+      "duration_sec": 26.6,
+      "hook_text": "JULIANA: \"\"Some of the pages are ruined. Careful.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Your hair and beard...\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

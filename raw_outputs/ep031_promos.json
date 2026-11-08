@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 31",
+  "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 31",
+      "promo_id": "EP031_PROMO_02",
+      "start_time": "01:58.40",
+      "end_time": "02:35.20",
+      "duration_sec": 36.8,
+      "hook_text": "JULIANA: \"\"Then why are you so desperate to make me kneel?\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "CATHERINE: \"\"One flame, and your mother's life's work becomes ash.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), tears (x1), rage (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 9.2
+    },
+    {
+      "episode": "Episode 31",
+      "promo_id": "EP031_PROMO_01",
+      "start_time": "01:20.80",
+      "end_time": "02:20.40",
+      "duration_sec": 59.6,
+      "hook_text": "JULIANA: \"\"I call it love.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"[gasping] Give it back!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), tears (x1), rage (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 31",
+      "promo_id": "EP031_PROMO_03",
+      "start_time": "00:06.90",
+      "end_time": "01:05.30",
+      "duration_sec": 58.4,
+      "hook_text": "CATHERINE: \"\"Look at you.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"I chose myself.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), humiliation (x1), cruel (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 31",
+      "promo_id": "EP031_PROMO_04",
+      "start_time": "00:48.90",
+      "end_time": "01:48.50",
+      "duration_sec": 59.6,
+      "hook_text": "CATHERINE: \"\"Do you remember?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Knowledge. Love. And people who need me.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by money (x2), coward (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

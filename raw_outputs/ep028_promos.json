@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 28",
+  "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 28",
+      "promo_id": "EP028_PROMO_01",
+      "start_time": "00:08.40",
+      "end_time": "01:06.80",
+      "duration_sec": 58.4,
+      "hook_text": "CATHERINE: \"\"...herbs in her pockets...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"...is the maid who claims to have discovered it.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by poison (x3), tears (x1), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 28",
+      "promo_id": "EP028_PROMO_02",
+      "start_time": "00:54.00",
+      "end_time": "01:53.00",
+      "duration_sec": 59.0,
+      "hook_text": "BLOND NOBLEMAN: \"\"The poison has clearly damaged her mind.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"...because no respectable man would have her.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by bride (x1), poison (x2), secret (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 28",
+      "promo_id": "EP028_PROMO_03",
+      "start_time": "00:35.00",
+      "end_time": "01:24.40",
+      "duration_sec": 49.4,
+      "hook_text": "DOWAGER DUCHESS: \"\"I know what happened to me!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"My mother's locket!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by poison (x2), cruel (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 28",
+      "promo_id": "EP028_PROMO_04",
+      "start_time": "01:19.00",
+      "end_time": "02:16.70",
+      "duration_sec": 57.7,
+      "hook_text": "CATHERINE: \"\"A witch has no need for family heirlooms in the gallows.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"...before he sends you to the gallows.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by bride (x1), secret (x1), cruel (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 28",
+      "promo_id": "EP028_PROMO_05",
+      "start_time": "00:00.00",
+      "end_time": "00:22.70",
+      "duration_sec": 22.7,
+      "hook_text": "Action: Juliana struggles against the guard's grip; the leather-bound herbarium slips from he",
+      "hook_rating": 4,
+      "cliffhanger_text": "BLOND NOBLEMAN: \"\"But the guards know how to extract the truth.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by poison (x1), furious (x1), truth (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    }
+  ]
+}

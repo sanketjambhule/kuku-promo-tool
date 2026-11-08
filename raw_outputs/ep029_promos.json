@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 29",
+  "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 29",
+      "promo_id": "EP029_PROMO_01",
+      "start_time": "00:13.20",
+      "end_time": "01:11.40",
+      "duration_sec": 58.2,
+      "hook_text": "JULIANA: \"\"It contains years of her work! Her knowledge! Everything she left me!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"My husband will find me.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by destroy (x1), tears (x2), furious (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 29",
+      "promo_id": "EP029_PROMO_02",
+      "start_time": "00:40.10",
+      "end_time": "01:39.50",
+      "duration_sec": 59.4,
+      "hook_text": "JULIANA: \"\"You know that is a lie!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"I have done nothing!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by destroy (x1), tears (x1), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 29",
+      "promo_id": "EP029_PROMO_03",
+      "start_time": "01:09.80",
+      "end_time": "01:55.50",
+      "duration_sec": 45.7,
+      "hook_text": "JULIANA: \"\"My husband will find me.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"They took her locket. But they will not take Alexander from me.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), cold (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 29",
+      "promo_id": "EP029_PROMO_04",
+      "start_time": "00:05.10",
+      "end_time": "00:26.70",
+      "duration_sec": 21.6,
+      "hook_text": "JULIANA: \"\"Catherine! Please! That book is my mother's only legacy!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"You still call this a legacy?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), cruel (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

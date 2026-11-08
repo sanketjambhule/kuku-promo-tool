@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 32",
+  "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 32",
+      "promo_id": "EP032_PROMO_01",
+      "start_time": "00:03.00",
+      "end_time": "01:01.00",
+      "duration_sec": 58.0,
+      "hook_text": "CATHERINE: \"\"There it is.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"He wanted a woman who looked beautiful beside his wealth.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by destroy (x3), tears (x2), furious (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 32",
+      "promo_id": "EP032_PROMO_02",
+      "start_time": "00:29.80",
+      "end_time": "01:19.40",
+      "duration_sec": 49.6,
+      "hook_text": "JULIANA: \"\"You may destroy the book...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Your soldier?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by destroy (x3), furious (x2), outrage (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 32",
+      "promo_id": "EP032_PROMO_03",
+      "start_time": "00:47.80",
+      "end_time": "01:43.50",
+      "duration_sec": 55.7,
+      "hook_text": "CATHERINE: \"\"A disgraced woman?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Family. A perfect name.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by destroy (x1), truth (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 32",
+      "promo_id": "EP032_PROMO_04",
+      "start_time": "01:26.50",
+      "end_time": "02:26.50",
+      "duration_sec": 60.0,
+      "hook_text": "JULIANA: \"\"Because that nobody showed me more love than your entire world ever did.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"...but you will never have the courage to earn what you demand from everyo\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by rage (x2), truth (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 32",
+      "promo_id": "EP032_PROMO_05",
+      "start_time": "02:12.00",
+      "end_time": "02:34.38",
+      "duration_sec": 22.38,
+      "hook_text": "JULIANA: \"\"But look at you.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Then let's see how brave you are when it touches your skin!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by rage (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

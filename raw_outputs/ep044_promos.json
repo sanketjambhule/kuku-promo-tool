@@ -1,0 +1,35 @@
+{
+  "episode": "Episode 44",
+  "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+  "total_promos": 2,
+  "promos": [
+    {
+      "episode": "Episode 44",
+      "promo_id": "EP044_PROMO_01",
+      "start_time": "00:03.30",
+      "end_time": "00:58.20",
+      "duration_sec": 54.9,
+      "hook_text": "POLICE CONSTABLE: \"\"Lord Henry Sterling, you are under arrest by order of the Crown.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"No!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by arrest (x1), marry (x1), tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 44",
+      "promo_id": "EP044_PROMO_02",
+      "start_time": "00:44.20",
+      "end_time": "01:10.40",
+      "duration_sec": 26.2,
+      "hook_text": "CATHERINE: \"\"You don't remember?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Her?!\" --- SCRIPT END ---\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by marry (x1), cold (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

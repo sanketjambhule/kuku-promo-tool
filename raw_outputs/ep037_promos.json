@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 37",
+  "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 37",
+      "promo_id": "EP037_PROMO_01",
+      "start_time": "00:58.50",
+      "end_time": "01:56.20",
+      "duration_sec": 57.7,
+      "hook_text": "NOBLEMAN: \"\"The sentencing of the condemned.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"They cannot take who I am!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), tears (x2), ruin (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 37",
+      "promo_id": "EP037_PROMO_02",
+      "start_time": "00:10.80",
+      "end_time": "01:08.80",
+      "duration_sec": 58.0,
+      "hook_text": "CATHERINE: \"\"The wedding?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "NOBLEMAN: \"\"A public execution after a wedding.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), wedding (x4), cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 37",
+      "promo_id": "EP037_PROMO_03",
+      "start_time": "01:23.00",
+      "end_time": "02:21.00",
+      "duration_sec": 58.0,
+      "hook_text": "LADY CLARISSA: \"\"Juliana's ruin will be a lesson. And we will be there to watch.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY CLARISSA: \"\"Instead she married a nobody, played healer to peasants, challenged people\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x2), ruin (x1), beg (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 37",
+      "promo_id": "EP037_PROMO_04",
+      "start_time": "00:37.00",
+      "end_time": "01:27.50",
+      "duration_sec": 50.5,
+      "hook_text": "BUTLER: \"\"Lady Clarissa, an invitation from Ashbridge Manor.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY CLARISSA: \"\"Juliana's ruin will be a lesson. And we will be there to watch.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), ruin (x1), wedding (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 37",
+      "promo_id": "EP037_PROMO_05",
+      "start_time": "00:00.00",
+      "end_time": "00:26.40",
+      "duration_sec": 26.4,
+      "hook_text": "Scene Opening: Low-angle shot tilting down to a polished mahogany table as a white-gloved serva",
+      "hook_rating": 3,
+      "cliffhanger_text": "BLOND NOBLEMAN: \"\"And no one will question what happened to the woman who tried to stop us.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by wedding (x3), cruel (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

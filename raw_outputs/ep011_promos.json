@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 11",
+  "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 11",
+      "promo_id": "EP011_PROMO_02",
+      "start_time": "00:58.00",
+      "end_time": "01:46.60",
+      "duration_sec": 48.6,
+      "hook_text": "JULIANA: \"\"Stop! Those are my mother's medicines!\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "GERALD: \"\"There it is. Ha!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), destroy (x1), tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 9.2
+    },
+    {
+      "episode": "Episode 11",
+      "promo_id": "EP011_PROMO_01",
+      "start_time": "00:16.80",
+      "end_time": "01:16.80",
+      "duration_sec": 60.0,
+      "hook_text": "GERALD: \"\"Your husband stole my gold pocket watch!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "GERALD: \"\"Happy?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), furious (x1), rage (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 11",
+      "promo_id": "EP011_PROMO_03",
+      "start_time": "00:08.20",
+      "end_time": "00:29.00",
+      "duration_sec": 20.8,
+      "hook_text": "JULIANA: \"\"Gerald? What are you doing here?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Alexander would never steal from you.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), furious (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 11",
+      "promo_id": "EP011_PROMO_04",
+      "start_time": "00:00.00",
+      "end_time": "00:20.00",
+      "duration_sec": 20.0,
+      "hook_text": "Action: Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alex",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"What? When?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

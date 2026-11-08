@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 46",
+  "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 46",
+      "promo_id": "EP046_PROMO_01",
+      "start_time": "00:42.80",
+      "end_time": "01:36.20",
+      "duration_sec": 53.4,
+      "hook_text": "HIGH PRIEST: \"\"No Crown license was sought, because no one thought to ask leave for a Duk\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "HIGH PRIEST: \"\"God did not marry you. A frightened parishioner did, without leave, withou\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by marry (x2), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 46",
+      "promo_id": "EP046_PROMO_02",
+      "start_time": "01:18.10",
+      "end_time": "02:06.50",
+      "duration_sec": 48.4,
+      "hook_text": "JULIANA: \"\"Now a church calls my marriage a lie!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"I'll take that wager over your decree.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by marry (x1), furious (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 46",
+      "promo_id": "EP046_PROMO_03",
+      "start_time": "00:17.30",
+      "end_time": "01:05.50",
+      "duration_sec": 48.2,
+      "hook_text": "HIGH PRIEST: \"\"None shall leave until every witness is accounted for.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"I won't ask it for permission to love.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by marry (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 46",
+      "promo_id": "EP046_PROMO_05",
+      "start_time": "00:00.00",
+      "end_time": "00:47.00",
+      "duration_sec": 47.0,
+      "hook_text": "Action: Alexander holds Juliana's hand resolutely as Juliana gazes toward the church aisle wh",
+      "hook_rating": 4,
+      "cliffhanger_text": "HIGH PRIEST: \"\"No Crown license was sought, because no one thought to ask leave for a Duk\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by marry (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 46",
+      "promo_id": "EP046_PROMO_04",
+      "start_time": "01:36.80",
+      "end_time": "02:23.80",
+      "duration_sec": 47.0,
+      "hook_text": "HIGH PRIEST: \"\"And I have the power to undo in one hearing what took you three years to s\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Ten days is plenty of time.\" --- SCRIPT END ---\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

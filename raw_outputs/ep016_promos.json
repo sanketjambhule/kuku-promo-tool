@@ -1,0 +1,49 @@
+{
+  "episode": "Episode 16",
+  "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+  "total_promos": 3,
+  "promos": [
+    {
+      "episode": "Episode 16",
+      "promo_id": "EP016_PROMO_01",
+      "start_time": "00:04.50",
+      "end_time": "00:58.20",
+      "duration_sec": 53.7,
+      "hook_text": "THUG WITH CAP: \"\"I said, move!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "THUG WITH CAP: \"\"We were only paid to destroy the garden, that's all!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by destroy (x1), tears (x1), blood (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 16",
+      "promo_id": "EP016_PROMO_02",
+      "start_time": "00:25.80",
+      "end_time": "01:15.80",
+      "duration_sec": 50.0,
+      "hook_text": "THIRD THUG: \"\"Stay back!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Are you hurt?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by destroy (x1), tears (x1), blood (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 16",
+      "promo_id": "EP016_PROMO_03",
+      "start_time": "01:03.00",
+      "end_time": "01:23.19",
+      "duration_sec": 20.19,
+      "hook_text": "JULIANA: \"\"You knew exactly what to do.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond formi",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.0
+    }
+  ]
+}

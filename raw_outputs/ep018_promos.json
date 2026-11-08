@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 18",
+  "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 18",
+      "promo_id": "EP018_PROMO_01",
+      "start_time": "01:24.00",
+      "end_time": "02:22.50",
+      "duration_sec": 58.5,
+      "hook_text": "JULIANA: \"\"Alexander!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Everything we had is gone.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), blood (x1), heartbroken (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 18",
+      "promo_id": "EP018_PROMO_03",
+      "start_time": "00:56.50",
+      "end_time": "01:27.50",
+      "duration_sec": 31.0,
+      "hook_text": "JULIANA: \"\"The ledger!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"Down!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by blood (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 18",
+      "promo_id": "EP018_PROMO_02",
+      "start_time": "02:19.80",
+      "end_time": "02:57.20",
+      "duration_sec": 37.4,
+      "hook_text": "JULIANA: \"\"Everything we had is gone.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"They took our home. I will not let them take anything else now.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 18",
+      "promo_id": "EP018_PROMO_04",
+      "start_time": "00:06.50",
+      "end_time": "00:43.50",
+      "duration_sec": 37.0,
+      "hook_text": "JULIANA: \"\"Alexander!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"Then we go another way.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 18",
+      "promo_id": "EP018_PROMO_05",
+      "start_time": "01:13.50",
+      "end_time": "01:38.20",
+      "duration_sec": 24.7,
+      "hook_text": "ALEXANDER: \"\"Juliana!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"I've got you.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by blood (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

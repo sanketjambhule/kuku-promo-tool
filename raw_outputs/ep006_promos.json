@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 6",
+  "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 6",
+      "promo_id": "EP006_PROMO_01",
+      "start_time": "00:26.50",
+      "end_time": "01:08.70",
+      "duration_sec": 42.2,
+      "hook_text": "JULIANA: \"\"That is it?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "MYSTERIOUS BEARDED MAN: \"\"You don't have to do that tonight.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 6",
+      "promo_id": "EP006_PROMO_02",
+      "start_time": "00:56.40",
+      "end_time": "01:16.80",
+      "duration_sec": 20.4,
+      "hook_text": "JULIANA: \"\"I think I like that.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"If I stop now, I will think about everything I lost.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 6",
+      "promo_id": "EP006_PROMO_03",
+      "start_time": "00:07.20",
+      "end_time": "00:52.70",
+      "duration_sec": 45.5,
+      "hook_text": "MYSTERIOUS BEARDED MAN: \"\"I know this is not the life you came from.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"It is quiet.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 6",
+      "promo_id": "EP006_PROMO_04",
+      "start_time": "01:14.30",
+      "end_time": "01:49.00",
+      "duration_sec": 34.7,
+      "hook_text": "Action: Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begin",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Sitting here with him, I don't feel afraid.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 6",
+      "promo_id": "EP006_PROMO_05",
+      "start_time": "01:04.30",
+      "end_time": "01:29.80",
+      "duration_sec": 25.5,
+      "hook_text": "JULIANA: \"\"If this is our home, I want it clean.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "MYSTERIOUS BEARDED MAN: \"\"There.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

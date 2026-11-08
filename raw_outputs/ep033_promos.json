@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 33",
+  "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 33",
+      "promo_id": "EP033_PROMO_01",
+      "start_time": "00:27.50",
+      "end_time": "01:24.50",
+      "duration_sec": 57.0,
+      "hook_text": "LORD: \"\"You watched her.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LORD: \"\"She drew something around the bed, did she not?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x3), truth (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 33",
+      "promo_id": "EP033_PROMO_02",
+      "start_time": "00:57.40",
+      "end_time": "01:46.50",
+      "duration_sec": 49.1,
+      "hook_text": "MAID: \"\"No!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "MAID: \"\"She was praying!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x2), truth (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 33",
+      "promo_id": "EP033_PROMO_03",
+      "start_time": "01:19.60",
+      "end_time": "02:14.00",
+      "duration_sec": 54.4,
+      "hook_text": "LORD: \"\"The truth.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LORD: \"\"That will be your testimony.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), truth (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 33",
+      "promo_id": "EP033_PROMO_04",
+      "start_time": "00:06.50",
+      "end_time": "01:03.50",
+      "duration_sec": 57.0,
+      "hook_text": "MAID: \"\"Yes, my Lord.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LORD: \"\"Your brother is still a pauper.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x2), cold (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 33",
+      "promo_id": "EP033_PROMO_05",
+      "start_time": "01:52.00",
+      "end_time": "02:44.50",
+      "duration_sec": 52.5,
+      "hook_text": "MAID: \"\"I don't know!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LORD: \"\"Save your tears for the trial.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), cold (x3), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

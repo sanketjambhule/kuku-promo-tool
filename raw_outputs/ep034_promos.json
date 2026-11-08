@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 34",
+  "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 34",
+      "promo_id": "EP034_PROMO_01",
+      "start_time": "00:33.20",
+      "end_time": "01:24.90",
+      "duration_sec": 51.7,
+      "hook_text": "LADY JULIANA: \"\"I admit to healing the sick.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LORD: \"\"Your Honor... the witness has confirmed the ritual.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x3), shame (x1), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 34",
+      "promo_id": "EP034_PROMO_02",
+      "start_time": "00:09.10",
+      "end_time": "00:54.20",
+      "duration_sec": 45.1,
+      "hook_text": "JUDGE: \"\"Do you deny possessing this book?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "PRUDENCE: \"\"Yes.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x2), shame (x1), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 34",
+      "promo_id": "EP034_PROMO_03",
+      "start_time": "00:51.50",
+      "end_time": "01:49.80",
+      "duration_sec": 58.3,
+      "hook_text": "PRUDENCE: \"\"Yes.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LORD: \"\"She calls it healing.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x2), desperate (x1), heartbroken (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 34",
+      "promo_id": "EP034_PROMO_05",
+      "start_time": "02:07.20",
+      "end_time": "02:46.80",
+      "duration_sec": 39.6,
+      "hook_text": "LADY JULIANA: \"\"Yes.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"Then let it be.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), truth (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 34",
+      "promo_id": "EP034_PROMO_04",
+      "start_time": "01:57.40",
+      "end_time": "02:18.40",
+      "duration_sec": 21.0,
+      "hook_text": "LADY JULIANA: \"\"It is not irrelevant!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"So I helped them.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by truth (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

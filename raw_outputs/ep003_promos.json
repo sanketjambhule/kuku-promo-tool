@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 3",
+  "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace\u2014and drops to one knee with a proposal that shocks high society.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 3",
+      "promo_id": "EP003_PROMO_01",
+      "start_time": "00:58.30",
+      "end_time": "01:56.00",
+      "duration_sec": 57.7,
+      "hook_text": "NOBLE MATRIARCH: \"\"Guards! Remove her!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "THE BEARDED STRANGER: \"\"Because I want to.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x2), groom (x1), beg (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 3",
+      "promo_id": "EP003_PROMO_02",
+      "start_time": "00:02.10",
+      "end_time": "00:56.20",
+      "duration_sec": 54.1,
+      "hook_text": "LADY IN GOLD GOWN: \"\"Look at you...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "NOBLE MATRIARCH: \"\"Your father has chosen his family...\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x2), wedding (x2), cruel (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 3",
+      "promo_id": "EP003_PROMO_03",
+      "start_time": "00:36.50",
+      "end_time": "01:31.60",
+      "duration_sec": 55.1,
+      "hook_text": "NOBLE MATRIARCH: \"\"Your father has made his choice.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "THE BEARDED STRANGER: \"\"Are you hurt?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), groom (x1), outrage (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 3",
+      "promo_id": "EP003_PROMO_04",
+      "start_time": "01:25.60",
+      "end_time": "02:20.30",
+      "duration_sec": 54.7,
+      "hook_text": "THE FORMER GROOM: \"\"What are you waiting for?! He's only one man!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "THE BEARDED STRANGER: \"\"Lady Juliana... accept my hand.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), groom (x1), beg (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 21",
+  "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 21",
+      "promo_id": "EP021_PROMO_01",
+      "start_time": "01:12.00",
+      "end_time": "01:36.40",
+      "duration_sec": 24.4,
+      "hook_text": "PRUDENCE: \"\"Oh, thank God! His chest is quiet! The rattling has stopped!\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "PRUDENCE: \"\"But their gold cannot buy them health.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), choke (x1), money (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 21",
+      "promo_id": "EP021_PROMO_02",
+      "start_time": "00:27.50",
+      "end_time": "01:27.50",
+      "duration_sec": 60.0,
+      "hook_text": "LADY JULIANA: \"\"Our cottage is ashes. I have nothing left but this coltsfoot.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "PRUDENCE: \"\"I have no money, Lady Juliana, but I swear on my life, I will do anything \"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), choke (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 21",
+      "promo_id": "EP021_PROMO_03",
+      "start_time": "00:04.20",
+      "end_time": "00:58.20",
+      "duration_sec": 54.0,
+      "hook_text": "PRUDENCE: \"\"Lady Juliana! Please! You have to help me, Toby is dying!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"I cannot let my own weariness stop me. This boy needs my mother's knowledg\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by desperate (x2), grab (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 21",
+      "promo_id": "EP021_PROMO_04",
+      "start_time": "01:23.00",
+      "end_time": "01:54.00",
+      "duration_sec": 31.0,
+      "hook_text": "PRUDENCE: \"\"I have no money, Lady Juliana, but I swear on my life, I will do anything \"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: Lady Juliana sits motionless at the rustic wooden table, her bandaged hands hold",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by truth (x1), money (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

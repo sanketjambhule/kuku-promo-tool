@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 50",
+  "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control\u2014unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 50",
+      "promo_id": "EP050_PROMO_01",
+      "start_time": "00:19.40",
+      "end_time": "00:39.40",
+      "duration_sec": 20.0,
+      "hook_text": "FATHER THOMAS: \"\"The west territory. Tax collection, all of it. Routed through my office.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Unsupervised. In your hands alone.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 50",
+      "promo_id": "EP050_PROMO_02",
+      "start_time": "00:31.00",
+      "end_time": "00:54.00",
+      "duration_sec": 23.0,
+      "hook_text": "FATHER THOMAS: \"\"Absolution is free. Discretion has a price.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "FATHER THOMAS: \"\"I've told myself that since the dawn in your bedchamber, and here we are a\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 50",
+      "promo_id": "EP050_PROMO_03",
+      "start_time": "00:54.80",
+      "end_time": "01:20.00",
+      "duration_sec": 25.2,
+      "hook_text": "CATHERINE: \"\"In another room no one uses?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: Frantic backward tracking close-up on Agnes stumbling back into the shadows of t",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), secret (x1), gasp (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 50",
+      "promo_id": "EP050_PROMO_04",
+      "start_time": "00:07.20",
+      "end_time": "00:30.20",
+      "duration_sec": 23.0,
+      "hook_text": "FATHER THOMAS: \"\"A man in my collar isn't supposed to be in this bed at all.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"That's not absolution, Thomas. That's a fortune.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 50",
+      "promo_id": "EP050_PROMO_05",
+      "start_time": "00:43.20",
+      "end_time": "01:04.80",
+      "duration_sec": 21.6,
+      "hook_text": "CATHERINE: \"\"Done. You told yourself this ends when the hearing does.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Or perhaps discretion isn't the only thing you've developed a taste for.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

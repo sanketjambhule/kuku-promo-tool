@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 9",
+  "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 9",
+      "promo_id": "EP009_PROMO_01",
+      "start_time": "01:11.20",
+      "end_time": "01:51.20",
+      "duration_sec": 40.0,
+      "hook_text": "PEASANT MOTHER: \"\"I will tell the village what you did. They will never forget you.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "BLOND NOBLEMAN: \"\"Impossible.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by groom (x11), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 9",
+      "promo_id": "EP009_PROMO_02",
+      "start_time": "00:36.30",
+      "end_time": "01:35.10",
+      "duration_sec": 58.8,
+      "hook_text": "JULIANA: \"\"I have to be.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "THE FORMER GROOM: \"\"About a war veteran. Some say he resembles the late Duke.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by groom (x6) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 9",
+      "promo_id": "EP009_PROMO_03",
+      "start_time": "00:15.50",
+      "end_time": "00:42.50",
+      "duration_sec": 27.0,
+      "hook_text": "JULIANA: \"\"He seems very unwell, but he is resting steadily. How long has he been lik\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "PEASANT MOTHER: \"\"Please save him.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 9",
+      "promo_id": "EP009_PROMO_04",
+      "start_time": "00:03.60",
+      "end_time": "00:23.90",
+      "duration_sec": 20.3,
+      "hook_text": "ALEXANDER: \"\"Stay back. I'll open it.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "PEASANT MOTHER: \"\"Since yesterday morning. He has barely eaten since sunset.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 9",
+      "promo_id": "EP009_PROMO_05",
+      "start_time": "00:27.20",
+      "end_time": "00:52.50",
+      "duration_sec": 25.3,
+      "hook_text": "JULIANA: \"\"Feverfew... Not alone.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: Medium close-up of Juliana sitting quietly beside the boy, holding two fingers o",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.0
+    }
+  ]
+}

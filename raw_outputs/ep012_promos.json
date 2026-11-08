@@ -1,0 +1,49 @@
+{
+  "episode": "Episode 12",
+  "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+  "total_promos": 3,
+  "promos": [
+    {
+      "episode": "Episode 12",
+      "promo_id": "EP012_PROMO_01",
+      "start_time": "00:30.00",
+      "end_time": "01:24.70",
+      "duration_sec": 54.7,
+      "hook_text": "CLARISSA: \"\"...still defending your broken scrap of a man?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Tell me where the garden is.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), refuse (x1), cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 12",
+      "promo_id": "EP012_PROMO_02",
+      "start_time": "00:00.50",
+      "end_time": "00:23.60",
+      "duration_sec": 23.1,
+      "hook_text": "CONSTABLE: \"\"Put out your hands, veteran. You are under arrest for theft.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"I have never touched your property.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by arrest (x1), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 12",
+      "promo_id": "EP012_PROMO_03",
+      "start_time": "00:10.00",
+      "end_time": "01:05.10",
+      "duration_sec": 55.1,
+      "hook_text": "CONSTABLE: \"\"I found it there myself.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "GERALD: \"\"A lady's hands will be shredded to ribbons!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by cruel (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

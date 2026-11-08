@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 41",
+  "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced\u2014until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 41",
+      "promo_id": "EP041_PROMO_01",
+      "start_time": "00:30.50",
+      "end_time": "01:05.40",
+      "duration_sec": 34.9,
+      "hook_text": "NOBLEWOMAN: \"\"Look at her.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Come.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by bride (x2), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 41",
+      "promo_id": "EP041_PROMO_02",
+      "start_time": "00:01.80",
+      "end_time": "00:36.80",
+      "duration_sec": 35.0,
+      "hook_text": "CATHERINE: \"\"Wait.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "NOBLEWOMAN: \"\"Not as a bride this time.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by bride (x2), cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 41",
+      "promo_id": "EP041_PROMO_03",
+      "start_time": "00:58.00",
+      "end_time": "01:19.30",
+      "duration_sec": 21.3,
+      "hook_text": "JULIANA: \"\"You needed an entire chapel to feel powerful over one chained woman?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "PRIEST: \"\"Shall we?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 41",
+      "promo_id": "EP041_PROMO_05",
+      "start_time": "01:15.80",
+      "end_time": "01:36.09",
+      "duration_sec": 20.29,
+      "hook_text": "BLOND NOBLEMAN: \"\"Nothing.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: Extreme close-up pushing in on Juliana's bruised face. Her expression shifts fro",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by shock (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.0
+    },
+    {
+      "episode": "Episode 41",
+      "promo_id": "EP041_PROMO_04",
+      "start_time": "00:20.00",
+      "end_time": "00:48.00",
+      "duration_sec": 28.0,
+      "hook_text": "Scene Opening: Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron ",
+      "hook_rating": 3,
+      "cliffhanger_text": "CATHERINE: \"\"This is the world you thought you belonged to.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by bride (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 6.0
+    }
+  ]
+}

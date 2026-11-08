@@ -1,0 +1,49 @@
+{
+  "episode": "Episode 15",
+  "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+  "total_promos": 3,
+  "promos": [
+    {
+      "episode": "Episode 15",
+      "promo_id": "EP015_PROMO_03",
+      "start_time": "00:07.60",
+      "end_time": "00:31.20",
+      "duration_sec": 23.6,
+      "hook_text": "JULIANA: \"\"Stop! What are you doing?!\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "TALL THUG: \"\"Months? You actually spend your days growing this filth?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), furious (x1), cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 9.2
+    },
+    {
+      "episode": "Episode 15",
+      "promo_id": "EP015_PROMO_01",
+      "start_time": "00:16.40",
+      "end_time": "01:12.60",
+      "duration_sec": 56.2,
+      "hook_text": "JULIANA: \"\"Those are medicinal plants!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Alexander...\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), destroy (x1), tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 15",
+      "promo_id": "EP015_PROMO_02",
+      "start_time": "00:47.80",
+      "end_time": "01:26.00",
+      "duration_sec": 38.2,
+      "hook_text": "JULIANA: \"\"Ah!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "THUG WITH CAP: \"\"What? You want to fight us, veteran?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), blood (x1), rage (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    }
+  ]
+}

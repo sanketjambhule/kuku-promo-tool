@@ -1,0 +1,49 @@
+{
+  "episode": "Episode 5",
+  "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+  "total_promos": 3,
+  "promos": [
+    {
+      "episode": "Episode 5",
+      "promo_id": "EP005_PROMO_01",
+      "start_time": "00:06.80",
+      "end_time": "01:06.50",
+      "duration_sec": 59.7,
+      "hook_text": "LORD ASHCROFT: \"\"You will not leave this church carrying the Ashcroft name.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "GERALD: \"\"Perhaps that is where it belongs.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x2), slap (x1), tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 5",
+      "promo_id": "EP005_PROMO_02",
+      "start_time": "00:46.80",
+      "end_time": "01:40.80",
+      "duration_sec": 54.0,
+      "hook_text": "LADY ASHCROFT: \"\"...that belongs to this family.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "MYSTERIOUS BEARDED MAN: \"\"Choose your next words carefully.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), slap (x1), tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 5",
+      "promo_id": "EP005_PROMO_03",
+      "start_time": "01:29.40",
+      "end_time": "01:50.50",
+      "duration_sec": 21.1,
+      "hook_text": "MYSTERIOUS BEARDED MAN: \"\"Let them keep everything else.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: High wide shot from above the courtyard archway. Juliana, holding her mother's b",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.0
+    }
+  ]
+}

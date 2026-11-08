@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 22",
+  "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 22",
+      "promo_id": "EP022_PROMO_01",
+      "start_time": "01:34.50",
+      "end_time": "02:11.00",
+      "duration_sec": 36.5,
+      "hook_text": "LADY JULIANA: \"\"This house...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"Who has been treating you?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by poison (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 22",
+      "promo_id": "EP022_PROMO_02",
+      "start_time": "00:22.00",
+      "end_time": "00:45.60",
+      "duration_sec": 23.6,
+      "hook_text": "LADY JULIANA: \"\"I saved Toby. I can save her.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "HOUSEKEEPER: \"\"Who is this?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 22",
+      "promo_id": "EP022_PROMO_03",
+      "start_time": "00:07.00",
+      "end_time": "00:28.10",
+      "duration_sec": 21.1,
+      "hook_text": "PRUDENCE: \"\"Keep your head down. If anyone recognizes you, everything is over.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "PRUDENCE: \"\"And if they discover who you are?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 22",
+      "promo_id": "EP022_PROMO_04",
+      "start_time": "00:41.50",
+      "end_time": "01:01.80",
+      "duration_sec": 20.3,
+      "hook_text": "HOUSEKEEPER: \"\"Prudence.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "HOUSEKEEPER: \"\"Carry coal?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 22",
+      "promo_id": "EP022_PROMO_05",
+      "start_time": "00:58.50",
+      "end_time": "01:58.20",
+      "duration_sec": 59.7,
+      "hook_text": "LADY JULIANA: \"\"Yes, ma'am.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"Your Grace?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

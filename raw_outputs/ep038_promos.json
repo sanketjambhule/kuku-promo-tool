@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 38",
+  "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 38",
+      "promo_id": "EP038_PROMO_01",
+      "start_time": "00:16.00",
+      "end_time": "01:04.20",
+      "duration_sec": 48.2,
+      "hook_text": "JULIANA: \"\"Why?\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "JULIANA: \"\"I will not betray him.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by betray (x1), tears (x3), desperate (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 9.2
+    },
+    {
+      "episode": "Episode 38",
+      "promo_id": "EP038_PROMO_02",
+      "start_time": "00:40.00",
+      "end_time": "01:18.50",
+      "duration_sec": 38.5,
+      "hook_text": "JULIANA: \"\"Do you even know what happened to me?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Then I suppose I'm next.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by betray (x1), wedding (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 38",
+      "promo_id": "EP038_PROMO_03",
+      "start_time": "00:00.00",
+      "end_time": "00:45.20",
+      "duration_sec": 45.2,
+      "hook_text": "Action: Juliana sits motionless against the cold masonry, weak and visibly drained from starv",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Do you know they condemned me?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x3), cold (x1), desperate (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 38",
+      "promo_id": "EP038_PROMO_04",
+      "start_time": "01:02.80",
+      "end_time": "01:27.91",
+      "duration_sec": 25.11,
+      "hook_text": "JULIANA: \"\"I will not betray him.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Alexander...\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by betray (x1), wedding (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

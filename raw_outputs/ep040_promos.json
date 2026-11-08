@@ -1,0 +1,49 @@
+{
+  "episode": "Episode 40",
+  "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution\u2014unaware that Alexander's retribution is already at their gates.",
+  "total_promos": 3,
+  "promos": [
+    {
+      "episode": "Episode 40",
+      "promo_id": "EP040_PROMO_02",
+      "start_time": "00:12.40",
+      "end_time": "00:55.80",
+      "duration_sec": 43.4,
+      "hook_text": "LADY HARRINGTON: \"\"Look at them. Every noble family in the county is here today.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "BLOND NOBLEMAN: \"\"Everything must go perfectly.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by bride (x1), wedding (x1), cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 40",
+      "promo_id": "EP040_PROMO_01",
+      "start_time": "00:44.10",
+      "end_time": "01:42.80",
+      "duration_sec": 58.7,
+      "hook_text": "LORD HARRINGTON: \"\"Of the wedding?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "BLOND NOBLEMAN: \"\"You look more queen than bride.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by bride (x2), wedding (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 40",
+      "promo_id": "EP040_PROMO_03",
+      "start_time": "00:04.80",
+      "end_time": "00:26.00",
+      "duration_sec": 21.2,
+      "hook_text": "FOOTMAN: \"\"The Harrington family.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY HARRINGTON: \"\"Imagine Juliana seeing this.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

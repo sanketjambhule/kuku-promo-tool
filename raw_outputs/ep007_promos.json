@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 7",
+  "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 7",
+      "promo_id": "EP007_PROMO_02",
+      "start_time": "00:38.20",
+      "end_time": "01:33.80",
+      "duration_sec": 55.6,
+      "hook_text": "ARISTOCRATIC WOMAN: \"\"You look like a servant.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ARISTOCRATIC WOMAN: \"\"Leaving? Gerald!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shame (x1), furious (x1), cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 7",
+      "promo_id": "EP007_PROMO_01",
+      "start_time": "00:21.00",
+      "end_time": "01:04.80",
+      "duration_sec": 43.8,
+      "hook_text": "ARISTOCRATIC WOMAN: \"\"This is where you live now?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"You have no authority here. Leave.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shame (x1), cruel (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 7",
+      "promo_id": "EP007_PROMO_03",
+      "start_time": "01:05.60",
+      "end_time": "01:51.50",
+      "duration_sec": 45.9,
+      "hook_text": "GERALD: \"\"I have enough influence to make a beggar disappear.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "SCARRED BEARDED MAN: \"\"I didn't need to.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by furious (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 7",
+      "promo_id": "EP007_PROMO_04",
+      "start_time": "00:00.00",
+      "end_time": "00:46.80",
+      "duration_sec": 46.8,
+      "hook_text": "Action: Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil cak",
+      "hook_rating": 4,
+      "cliffhanger_text": "GERALD: \"\"You were born a lady.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shame (x1), cruel (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

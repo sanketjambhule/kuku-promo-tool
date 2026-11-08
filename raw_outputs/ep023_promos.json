@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 23",
+  "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic\u2014only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 23",
+      "promo_id": "EP023_PROMO_01",
+      "start_time": "00:58.50",
+      "end_time": "01:54.00",
+      "duration_sec": 55.5,
+      "hook_text": "LADY JULIANA: \"\"Mother.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"The charcoal may help remove what is still inside her. We must act quickly\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by poison (x1), tears (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 23",
+      "promo_id": "EP023_PROMO_03",
+      "start_time": "01:34.50",
+      "end_time": "02:07.50",
+      "duration_sec": 33.0,
+      "hook_text": "PRUDENCE: \"\"Can you save her?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "PRUDENCE: \"\"Juliana... someone is coming.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 23",
+      "promo_id": "EP023_PROMO_04",
+      "start_time": "00:40.80",
+      "end_time": "01:28.00",
+      "duration_sec": 47.2,
+      "hook_text": "LADY JULIANA: \"\"No.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"Arsenic.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by poison (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 23",
+      "promo_id": "EP023_PROMO_02",
+      "start_time": "00:13.50",
+      "end_time": "00:36.00",
+      "duration_sec": 22.5,
+      "hook_text": "LADY JULIANA: \"\"How long has she been like this?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "PRUDENCE: \"\"The physician said her heart is failing.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 23",
+      "promo_id": "EP023_PROMO_05",
+      "start_time": "00:01.80",
+      "end_time": "00:27.50",
+      "duration_sec": 25.7,
+      "hook_text": "PRUDENCE: \"\"Juliana, we cannot stay for long. Someone will come.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"Her mouth is terribly dry.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

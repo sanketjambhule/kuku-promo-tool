@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 43",
+  "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 43",
+      "promo_id": "EP043_PROMO_01",
+      "start_time": "00:00.00",
+      "end_time": "01:00.00",
+      "duration_sec": 60.0,
+      "hook_text": "BLOND NOBLEMAN: \"\"You're lying!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"Read the names.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), arrest (x2), imposter (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 43",
+      "promo_id": "EP043_PROMO_02",
+      "start_time": "00:21.80",
+      "end_time": "01:21.00",
+      "duration_sec": 59.2,
+      "hook_text": "BLOND NOBLEMAN: \"\"You have all been deceived!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"You took my title.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), furious (x2), secret (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 43",
+      "promo_id": "EP043_PROMO_03",
+      "start_time": "01:09.00",
+      "end_time": "01:46.20",
+      "duration_sec": 37.2,
+      "hook_text": "ALEXANDER: \"\"You sold my men to the enemy.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"My Lord?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), furious (x2), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 43",
+      "promo_id": "EP043_PROMO_04",
+      "start_time": "01:33.40",
+      "end_time": "01:54.96",
+      "duration_sec": 21.56,
+      "hook_text": "BLOND NOBLEMAN: \"\"I was told he was dead!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "POLICE CONSTABLE: \"\"Going somewhere, Lord Sterling?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), cold (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "episode": "Episode 42",
+  "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.",
+  "total_promos": 2,
+  "promos": [
+    {
+      "episode": "Episode 42",
+      "promo_id": "EP042_PROMO_01",
+      "start_time": "00:14.60",
+      "end_time": "01:13.80",
+      "duration_sec": 59.2,
+      "hook_text": "JULIANA: \"\"Alexander...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER'S MOTHER: \"\"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Du\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by arrest (x2), tears (x3), imposter (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 42",
+      "promo_id": "EP042_PROMO_02",
+      "start_time": "00:01.00",
+      "end_time": "00:28.80",
+      "duration_sec": 27.8,
+      "hook_text": "Action: Alexander strides deliberately through the pulverized cathedral doorway. Dressed in t",
+      "hook_rating": 4,
+      "cliffhanger_text": "ROYAL GUARD: \"\"Because we know who he is.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by arrest (x2), tears (x1), imposter (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    }
+  ]
+}

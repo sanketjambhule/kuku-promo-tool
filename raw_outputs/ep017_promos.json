@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 17",
+  "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 17",
+      "promo_id": "EP017_PROMO_01",
+      "start_time": "00:14.30",
+      "end_time": "00:35.80",
+      "duration_sec": 21.5,
+      "hook_text": "JULIANA: \"\"Thank you.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"I just did.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), promise (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 17",
+      "promo_id": "EP017_PROMO_02",
+      "start_time": "00:07.00",
+      "end_time": "00:27.70",
+      "duration_sec": 20.7,
+      "hook_text": "JULIANA: \"\"Some of them survived.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"As long as I draw breath...\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 17",
+      "promo_id": "EP017_PROMO_03",
+      "start_time": "00:24.00",
+      "end_time": "00:51.50",
+      "duration_sec": 27.5,
+      "hook_text": "JULIANA: \"\"Even if there were ten of them?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"You make it very difficult to argue with you.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by promise (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 17",
+      "promo_id": "EP017_PROMO_04",
+      "start_time": "00:56.50",
+      "end_time": "01:44.20",
+      "duration_sec": 47.7,
+      "hook_text": "JULIANA: \"\"I was frightened.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Then I will wait.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 17",
+      "promo_id": "EP017_PROMO_05",
+      "start_time": "01:28.00",
+      "end_time": "01:56.00",
+      "duration_sec": 28.0,
+      "hook_text": "JULIANA: \"\"This is becoming impossible.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"But every day, he gives me another reason to trust him.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

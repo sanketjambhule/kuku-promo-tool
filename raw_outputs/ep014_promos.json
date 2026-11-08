@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 14",
+  "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 14",
+      "promo_id": "EP014_PROMO_01",
+      "start_time": "00:23.00",
+      "end_time": "01:09.80",
+      "duration_sec": 46.8,
+      "hook_text": "ALEXANDER: \"\"What have they done to you?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"And you are doing it better than me.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), furious (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 14",
+      "promo_id": "EP014_PROMO_02",
+      "start_time": "00:14.50",
+      "end_time": "00:38.50",
+      "duration_sec": 24.0,
+      "hook_text": "ALEXANDER: \"\"Juliana.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"You should never have had to bleed for me.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by furious (x1), cold (x1), promise (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 14",
+      "promo_id": "EP014_PROMO_03",
+      "start_time": "00:00.50",
+      "end_time": "00:25.00",
+      "duration_sec": 24.5,
+      "hook_text": "Action: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing ",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"What have they done to you?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by blood (x1), furious (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 14",
+      "promo_id": "EP014_PROMO_04",
+      "start_time": "00:58.50",
+      "end_time": "01:21.00",
+      "duration_sec": 22.5,
+      "hook_text": "ALEXANDER: \"\"I'm sorry.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"No one will ever hurt you for protecting me again.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), vow (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

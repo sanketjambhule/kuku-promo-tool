@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 35",
+  "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 35",
+      "promo_id": "EP035_PROMO_01",
+      "start_time": "01:29.80",
+      "end_time": "02:25.00",
+      "duration_sec": 55.2,
+      "hook_text": "ALEXANDER'S MOTHER: \"\"A traitor?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER'S MOTHER: \"\"Who?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), outrage (x1), rage (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 35",
+      "promo_id": "EP035_PROMO_02",
+      "start_time": "01:08.50",
+      "end_time": "02:05.50",
+      "duration_sec": 57.0,
+      "hook_text": "ALEXANDER: \"\"Most of them were.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER'S MOTHER: \"\"Then why did they never tell us?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), outrage (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 35",
+      "promo_id": "EP035_PROMO_03",
+      "start_time": "00:19.50",
+      "end_time": "01:06.00",
+      "duration_sec": 46.5,
+      "hook_text": "ALEXANDER'S MOTHER: \"\"This must be the place.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER'S MOTHER: \"\"They told me you died. They told me your entire regiment was destroyed.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), tears (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 35",
+      "promo_id": "EP035_PROMO_04",
+      "start_time": "00:36.50",
+      "end_time": "01:33.20",
+      "duration_sec": 56.7,
+      "hook_text": "ALEXANDER'S MOTHER: \"\"Alexander!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"Yes.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), cold (x1), desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 35",
+      "promo_id": "EP035_PROMO_05",
+      "start_time": "00:05.50",
+      "end_time": "00:44.20",
+      "duration_sec": 38.7,
+      "hook_text": "ALEXANDER'S MOTHER: \"\"I will not die in that house.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"Mother?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by shock (x1), tears (x1), cold (x3) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

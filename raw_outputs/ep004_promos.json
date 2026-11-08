@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 4",
+  "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 4",
+      "promo_id": "EP004_PROMO_02",
+      "start_time": "01:22.00",
+      "end_time": "02:16.00",
+      "duration_sec": 54.0,
+      "hook_text": "THE PRIEST: \"\"My- My Lady...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY ASHCROFT: \"\"You are disowned!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), shame (x1), furious (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 4",
+      "promo_id": "EP004_PROMO_01",
+      "start_time": "01:50.00",
+      "end_time": "02:31.40",
+      "duration_sec": 41.4,
+      "hook_text": "THE PRIEST: \"\"By the authority entrusted to me, I now pronounce you...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering do",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x2), tears (x1), wedding (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 4",
+      "promo_id": "EP004_PROMO_03",
+      "start_time": "00:03.40",
+      "end_time": "00:38.80",
+      "duration_sec": 35.4,
+      "hook_text": "GERALD: \"\"Look at him.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "MYSTERIOUS BEARDED MAN: \"\"Not a woman who deserves to be discarded.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by bride (x1), worthless (x1), cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 4",
+      "promo_id": "EP004_PROMO_04",
+      "start_time": "00:32.10",
+      "end_time": "01:08.00",
+      "duration_sec": 35.9,
+      "hook_text": "JULIANA: \"\"And what do you see?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"I don't know this man.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by promise (x1), vow (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 4",
+      "promo_id": "EP004_PROMO_05",
+      "start_time": "00:56.80",
+      "end_time": "01:56.80",
+      "duration_sec": 60.0,
+      "hook_text": "JULIANA: \"\"I will not become anyone's charity.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "GERALD: \"\"You have thrown yourself away!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by furious (x1), promise (x1), vow (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}

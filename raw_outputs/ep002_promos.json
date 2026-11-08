@@ -1,0 +1,49 @@
+{
+  "episode": "Episode 2",
+  "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+  "total_promos": 3,
+  "promos": [
+    {
+      "episode": "Episode 2",
+      "promo_id": "EP002_PROMO_01",
+      "start_time": "00:00.00",
+      "end_time": "00:58.20",
+      "duration_sec": 58.2,
+      "hook_text": "THE FORMER GROOM: \"\"I cannot marry you, Juliana.\"\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "LADY IN GOLD GOWN: \"\"And that quiet little face.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by groom (x6), marry (x1), tears (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 9.2
+    },
+    {
+      "episode": "Episode 2",
+      "promo_id": "EP002_PROMO_02",
+      "start_time": "00:20.90",
+      "end_time": "01:19.00",
+      "duration_sec": 58.1,
+      "hook_text": "THE FORMER GROOM: \"\"Promises change when a better choice appears.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"You abandoned a woman who trusted you...\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by groom (x3), tears (x2), wedding (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 2",
+      "promo_id": "EP002_PROMO_03",
+      "start_time": "00:51.60",
+      "end_time": "01:47.40",
+      "duration_sec": 55.8,
+      "hook_text": "LADY IN GOLD GOWN: \"\"That plain, old-fashioned gown.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY JULIANA: \"\"...but I will not leave it believing I was the one who should be ashamed.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by groom (x1), tears (x1), wedding (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    }
+  ]
+}

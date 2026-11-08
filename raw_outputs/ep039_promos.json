@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 39",
+  "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 39",
+      "promo_id": "EP039_PROMO_01",
+      "start_time": "00:41.00",
+      "end_time": "01:38.41",
+      "duration_sec": 57.41,
+      "hook_text": "LOYALIST FIGHTER: \"\"Sleep.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"And I am bringing my wife home.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by furious (x1), cold (x2), vow (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 39",
+      "promo_id": "EP039_PROMO_02",
+      "start_time": "00:20.20",
+      "end_time": "00:49.20",
+      "duration_sec": 29.0,
+      "hook_text": "LOYALIST FIGHTER: \"\"Four more inside.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LOYALIST FIGHTER: \"\"Tell the Duke.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 39",
+      "promo_id": "EP039_PROMO_05",
+      "start_time": "00:00.00",
+      "end_time": "00:24.20",
+      "duration_sec": 24.2,
+      "hook_text": "Action: Men in work clothes stack wooden crates onto the back of a large carriage as horses s",
+      "hook_rating": 4,
+      "cliffhanger_text": "LOYALIST FIGHTER: \"\"Ours.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 39",
+      "promo_id": "EP039_PROMO_03",
+      "start_time": "00:30.80",
+      "end_time": "00:59.80",
+      "duration_sec": 29.0,
+      "hook_text": "CART DRIVER: \"\"Firewood for the kitchens, sir.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: Medium profile shot of Alexander lifting the metal shears beside the window ligh",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.0
+    },
+    {
+      "episode": "Episode 39",
+      "promo_id": "EP039_PROMO_04",
+      "start_time": "00:09.60",
+      "end_time": "00:32.40",
+      "duration_sec": 22.8,
+      "hook_text": "Scene Opening: Close-up of a disguised loyalist adjusting his flat cap, followed by a low-angle",
+      "hook_rating": 3,
+      "cliffhanger_text": "CART DRIVER: \"\"Firewood for the kitchens, sir.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.0
+    }
+  ]
+}

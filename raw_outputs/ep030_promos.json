@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 30",
+  "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 30",
+      "promo_id": "EP030_PROMO_01",
+      "start_time": "00:57.00",
+      "end_time": "01:48.80",
+      "duration_sec": 51.8,
+      "hook_text": "CATHERINE: \"\"You have a solution?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"And the Dowager?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), destroy (x1), secret (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 30",
+      "promo_id": "EP030_PROMO_02",
+      "start_time": "01:23.20",
+      "end_time": "02:16.20",
+      "duration_sec": 53.0,
+      "hook_text": "CATHERINE: \"\"And if she claims she is a healer?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "RUPERT: \"\"I will write the arrest warrant myself.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), arrest (x1), cruel (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 30",
+      "promo_id": "EP030_PROMO_03",
+      "start_time": "00:29.80",
+      "end_time": "01:27.80",
+      "duration_sec": 58.0,
+      "hook_text": "RUPERT: \"\"If she speaks...\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ELDER NOBLEMAN: \"\"Then call it witchcraft.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by destroy (x1), secret (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 30",
+      "promo_id": "EP030_PROMO_05",
+      "start_time": "00:08.80",
+      "end_time": "01:04.30",
+      "duration_sec": 55.5,
+      "hook_text": "ELDER NOBLEMAN: \"\"You have a rat in your cellar, Rupert. And the servants are beginning to s\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "RUPERT: \"\"The law?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by destroy (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 30",
+      "promo_id": "EP030_PROMO_04",
+      "start_time": "02:00.00",
+      "end_time": "02:28.50",
+      "duration_sec": 28.5,
+      "hook_text": "RUPERT: \"\"And Juliana?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "Tense cut: High-angle shot peering down through the heavy iron dungeon grate into the flood",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by arrest (x1), cruel (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

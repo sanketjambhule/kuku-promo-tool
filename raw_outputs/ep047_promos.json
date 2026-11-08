@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 47",
+  "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne\u2014only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 47",
+      "promo_id": "EP047_PROMO_01",
+      "start_time": "01:03.50",
+      "end_time": "02:01.60",
+      "duration_sec": 58.1,
+      "hook_text": "CATHERINE: \"\"London closed its doors! My family disowned me!\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"You humiliate me.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by shock (x1), destroy (x1), poison (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 47",
+      "promo_id": "EP047_PROMO_02",
+      "start_time": "00:26.50",
+      "end_time": "01:26.50",
+      "duration_sec": 60.0,
+      "hook_text": "JULIANA: \"\"What if they strip your title? Because of me?\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"Juliana, she tried to destroy you!\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by destroy (x1), poison (x1), tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 47",
+      "promo_id": "EP047_PROMO_03",
+      "start_time": "00:01.80",
+      "end_time": "00:59.80",
+      "duration_sec": 58.0,
+      "hook_text": "CATHERINE: \"\"Rupert is rotting in the undercroft cells. Not me. I intend to stay on thi\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "LADY ASHBOURNE: \"\"You dare show your face in Ashbourne courtyard?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), cold (x1), dare (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 47",
+      "promo_id": "EP047_PROMO_04",
+      "start_time": "01:39.20",
+      "end_time": "02:14.00",
+      "duration_sec": 34.8,
+      "hook_text": "JULIANA: \"\"As a scullery maid.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"I accept, Your Grace.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by tears (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

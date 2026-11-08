@@ -1,0 +1,77 @@
+{
+  "episode": "Episode 49",
+  "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+  "total_promos": 5,
+  "promos": [
+    {
+      "episode": "Episode 49",
+      "promo_id": "EP049_PROMO_01",
+      "start_time": "00:09.00",
+      "end_time": "00:41.50",
+      "duration_sec": 32.5,
+      "hook_text": "FATHER THOMAS: \"\"Agnes is thorough. She made me wait for a groom to finish his rounds befor\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "FATHER THOMAS: \"\"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd \"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by bride (x1), groom (x1), cold (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 49",
+      "promo_id": "EP049_PROMO_02",
+      "start_time": "01:44.20",
+      "end_time": "02:14.20",
+      "duration_sec": 30.0,
+      "hook_text": "FATHER THOMAS: \"\"If I keep the hearing open, if I feed you every word spoken behind those d\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"A grateful Duchess collects debts differently than a desperate one.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by desperate (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 49",
+      "promo_id": "EP049_PROMO_03",
+      "start_time": "00:22.20",
+      "end_time": "00:52.80",
+      "duration_sec": 30.6,
+      "hook_text": "FATHER THOMAS: \"\"No shadows tonight, Catherine. Just us and an empty wing.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "CATHERINE: \"\"Today went better than either of us planned for. The whole court watched y\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by bride (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 49",
+      "promo_id": "EP049_PROMO_04",
+      "start_time": "00:33.50",
+      "end_time": "01:07.10",
+      "duration_sec": 33.6,
+      "hook_text": "FATHER THOMAS: \"\"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd \"",
+      "hook_rating": 4,
+      "cliffhanger_text": "FATHER THOMAS: \"\"And you always did have a taste for using me. It's why we suit each other.\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by bride (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    },
+    {
+      "episode": "Episode 49",
+      "promo_id": "EP049_PROMO_05",
+      "start_time": "01:12.60",
+      "end_time": "01:34.00",
+      "duration_sec": 21.4,
+      "hook_text": "FATHER THOMAS: \"\"What is it you actually need from me, Catherine? Say it plainly, for once.\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "FATHER THOMAS: \"\"You want eyes inside the council chamber itself?\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Low",
+      "why_it_works": "High emotional confrontation driven by intense confrontation with a tense unresolved cliffhanger.",
+      "viral_score": 6.8
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "episode": "Episode 19",
+  "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+  "total_promos": 4,
+  "promos": [
+    {
+      "episode": "Episode 19",
+      "promo_id": "EP019_PROMO_01",
+      "start_time": "00:19.40",
+      "end_time": "01:18.80",
+      "duration_sec": 59.4,
+      "hook_text": "ELDER VILLAGER: \"\"Take it.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "ALEXANDER: \"\"My mother is a prisoner in her own house.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x1), rage (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 19",
+      "promo_id": "EP019_PROMO_02",
+      "start_time": "00:44.30",
+      "end_time": "01:42.60",
+      "duration_sec": 58.3,
+      "hook_text": "INFORMANT: \"\"Your Grace.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"I don't know what we will do tomorrow.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "High",
+      "why_it_works": "High emotional confrontation driven by tears (x2), rage (x1), cold (x2) with a tense unresolved cliffhanger.",
+      "viral_score": 8.4
+    },
+    {
+      "episode": "Episode 19",
+      "promo_id": "EP019_PROMO_04",
+      "start_time": "01:13.50",
+      "end_time": "01:59.63",
+      "duration_sec": 46.13,
+      "hook_text": "INFORMANT: \"\"The people who served your family for years have been dismissed, frightene\"",
+      "hook_rating": 5,
+      "cliffhanger_text": "Tense cut: Slow cinematic push-in on the couple nestled together in the warm lantern glow. ",
+      "cliffhanger_rating": 3,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x2), cold (x2), vow (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    },
+    {
+      "episode": "Episode 19",
+      "promo_id": "EP019_PROMO_03",
+      "start_time": "00:00.00",
+      "end_time": "00:29.80",
+      "duration_sec": 29.8,
+      "hook_text": "JULIANA: \"\"This was our home.\"\"",
+      "hook_rating": 4,
+      "cliffhanger_text": "JULIANA: \"\"Thank you.\"\"",
+      "cliffhanger_rating": 4,
+      "standalone_comprehension": "Medium",
+      "why_it_works": "High emotional confrontation driven by tears (x1), ruin (x1), mine (x1) with a tense unresolved cliffhanger.",
+      "viral_score": 7.6
+    }
+  ]
+}
