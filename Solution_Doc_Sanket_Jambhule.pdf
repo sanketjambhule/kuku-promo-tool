@@ -1,0 +1,160 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 3 0 R 4 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [ 0 0 612.00 792.00 ] /Contents 5 0 R /Resources << /Font << /F1 7 0 R /F2 8 0 R /F3 9 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [ 0 0 612.00 792.00 ] /Contents 6 0 R /Resources << /Font << /F1 7 0 R /F2 8 0 R /F3 9 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 5370 >>
+stream
+0.960 0.970 0.990 rg
+36.00 715.00 540.00 52.00 re f
+0.880 0.120 0.280 RG
+2.50 w 36.00 715.00 m 576.00 715.00 l S
+BT /F2 13.00 Tf 0.080 0.120 0.200 rg 44.00 750.00 Td (KUKU AI GENERALIST ASSIGNMENT - SOLUTION DOC) Tj ET
+BT /F1 8.50 Tf 0.300 0.350 0.450 rg 44.00 735.00 Td (Problem 1: Find the Promos | Two-Stage Hybrid Extraction Pipeline) Tj ET
+BT /F2 8.50 Tf 0.100 0.150 0.250 rg 410.00 750.00 Td (Candidate: Sanket Jambhule) Tj ET
+BT /F1 7.80 Tf 0.200 0.300 0.600 rg 355.00 736.00 Td (Repo: github.com/sanketjambhule/kuku-promo-tool) Tj ET
+BT /F1 7.80 Tf 0.300 0.400 0.500 rg 410.00 723.00 Td (Prototype: Streamlit Community Cloud) Tj ET
+0.900 0.150 0.250 RG
+1.00 w 36.00 700.00 m 230.00 700.00 l S
+BT /F2 9.50 Tf 0.080 0.120 0.200 rg 36.00 703.00 Td (1. PROBLEM FRAMING & STRATEGIC CONTEXT) Tj ET
+BT /F1 8.50 Tf 0.150 0.150 0.150 rg 36.00 686.00 Td (Microdrama platforms \(Kuku, ReelShort, DramaBox\) scale through continuous, high-volume ad) Tj ET
+BT /F1 8.50 Tf 0.150 0.150 0.150 rg 36.00 675.00 Td (creative testing. User acquisition hinges entirely on 20 to 60-second vertical promotional) Tj ET
+BT /F1 8.50 Tf 0.150 0.150 0.150 rg 36.00 664.00 Td (video ads posted across TikTok, Reels, and Shorts. Today, human editors watch full episodes to) Tj ET
+BT /F1 8.50 Tf 0.150 0.150 0.150 rg 36.00 653.00 Td (manually cut promos - a bottleneck that breaks when releasing multiple shows weekly.) Tj ET
+BT /F2 8.50 Tf 0.100 0.100 0.100 rg 36.00 640.00 Td (We framed promo extraction as an Attention Economics Optimization problem across three non-negotiables:) Tj ET
+BT /F2 8.20 Tf 0.100 0.100 0.100 rg 44.00 629.00 Td (- The 0-3s Hook:) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 155.00 629.00 Td (Must arrest passive infinite scrolling with immediate conflict, a physical slap, or an outrageous accusation.) Tj ET
+BT /F2 8.20 Tf 0.100 0.100 0.100 rg 44.00 618.50 Td (- The Final 3s Cliffhanger:) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 155.00 618.50 Td (Must cut precisely at peak unresolved emotional tension, forcing viewers to click to Episode 1.) Tj ET
+BT /F2 8.20 Tf 0.100 0.100 0.100 rg 44.00 608.00 Td (- Standalone Comprehension:) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 155.00 608.00 Td (Cold scrolling audiences with zero prior lore must instantly understand who the victim and villain are.) Tj ET
+0.900 0.150 0.250 RG
+1.00 w 36.00 593.50 m 255.00 593.50 l S
+BT /F2 9.50 Tf 0.080 0.120 0.200 rg 36.00 596.50 Td (2. TWO-STAGE HYBRID PIPELINE ARCHITECTURE) Tj ET
+BT /F1 8.50 Tf 0.150 0.150 0.150 rg 36.00 579.50 Td (Brute-force LLM evaluation of all sliding windows in a 2-minute episode \(~250 windows\) costs) Tj ET
+BT /F1 8.50 Tf 0.150 0.150 0.150 rg 36.00 568.50 Td (~$1.50/ep and takes 60s+. Across a 100-episode season, this is financially unsustainable. We) Tj ET
+BT /F1 8.50 Tf 0.150 0.150 0.150 rg 36.00 557.50 Td (designed a Two-Stage Hybrid Engine:) Tj ET
+0.080 0.110 0.180 rg
+36.00 526.50 540.00 24.00 re f
+BT /F3 7.20 Tf 0.900 0.950 1.000 rg 42.00 538.50 Td ([Screenplay .txt] -> [Parser] -> [Sliding Windows 20-60s] -> [Stage 1 Heuristic + NMS] -> Top 10 -> [Stage 2 LLM] -> [Ranker]) Tj ET
+BT /F2 8.80 Tf 0.100 0.100 0.100 rg 36.00 516.50 Td (Stage 1: Deterministic Heuristic Filter \(<50ms execution in Python\)) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 44.00 505.50 Td (- Beat Extraction & Timestamp Normalization: Parses scenes, character dialogue, actions, and camera cues.) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 44.00 495.50 Td (- Missing Timestamp Interpolation: Automatically estimates speech rate \(2.5 words/sec, min 2s\) if timestamps are missing.) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 44.00 485.50 Td (- Virality Lexicon Scoring: Scans S-Tier Drama \(slap, marry, betray, kill, bastard\), A-Tier \(liar, kneel, revenge\), B-Tier \(desperate\).) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 44.00 475.50 Td (- Hook & Cliffhanger Structural Check: Rewards dialogue/action opening in first 4s and unresolved endings \(?, !, ...\).) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 44.00 465.50 Td (- Temporal Non-Maximum Suppression \(NMS\): Suppresses windows with IoU overlap > 65% to guarantee diverse scene coverage.) Tj ET
+BT /F2 8.80 Tf 0.100 0.100 0.100 rg 36.00 451.50 Td (Stage 2: Semantic LLM Evaluator \(Single Batched Call via Pydantic Schema\)) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 44.00 440.50 Td (The filtered Top 10 candidate windows are passed in a single structured prompt to Google) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 44.00 430.00 Td (Gemini 1.5 Flash or Claude 3 Haiku. The model analyzes subtle character status dynamics,) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 44.00 419.50 Td (emotional escalation, and outputs strict Pydantic JSON.) Tj ET
+0.900 0.150 0.250 RG
+1.00 w 36.00 405.00 m 240.00 405.00 l S
+BT /F2 9.50 Tf 0.080 0.120 0.200 rg 36.00 408.00 Td (3. MULTI-CRITERIA COMPOSITE RANKING FORMULA) Tj ET
+0.950 0.960 0.980 rg
+36.00 376.00 540.00 20.00 re f
+BT /F2 8.20 Tf 0.150 0.200 0.300 rg 52.00 388.00 Td (Viral Score = 2.0 x [ \(0.40 x Hook Rating\) + \(0.40 x Cliffhanger Rating\) + \(0.20 x Standalone Comprehension Score\) ]) Tj ET
+BT /F1 7.80 Tf 0.300 0.300 0.300 rg 44.00 368.00 Td (Ratings range 1-5. Standalone Comprehension maps: High=5.0, Medium=3.0, Low=1.0. Multiplied by 2.0 to scale onto 1.0 - 10.0.) Tj ET
+BT /F1 8.00 Tf 0.500 0.500 0.500 rg 285.00 20.00 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 5903 >>
+stream
+BT /F2 9.00 Tf 0.300 0.350 0.450 rg 36.00 755.00 Td (KUKU AI GENERALIST ASSIGNMENT - SOLUTION DOC \(PAGE 2\)) Tj ET
+0.880 0.120 0.280 RG
+1.50 w 36.00 748.00 m 576.00 748.00 l S
+0.900 0.150 0.250 RG
+1.00 w 36.00 734.00 m 175.00 734.00 l S
+BT /F2 9.50 Tf 0.080 0.120 0.200 rg 36.00 737.00 Td (4. KEY ASSUMPTIONS MADE) Tj ET
+BT /F2 8.20 Tf 0.100 0.100 0.100 rg 44.00 720.00 Td (- Screenplay-Video Fidelity:) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 175.00 720.00 Td (Assumes final video edit reflects screenplay dialogue sequence and timestamps.) Tj ET
+BT /F2 8.20 Tf 0.100 0.100 0.100 rg 44.00 709.50 Td (- Pacing Baseline:) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 175.00 709.50 Td (For un-timed screenplays, dialogue rate is calibrated to 2.5 words/second with a 2.0s floor for non-verbal actions.) Tj ET
+BT /F2 8.20 Tf 0.100 0.100 0.100 rg 44.00 699.00 Td (- Duration Boundary \(20-60s\):) Tj ET
+BT /F1 8.20 Tf 0.200 0.200 0.200 rg 175.00 699.00 Td (Clips under 20s lack dramatic setup; clips over 60s suffer severe retention drop-off on TikTok/Shorts.) Tj ET
+0.900 0.150 0.250 RG
+1.00 w 36.00 684.50 m 280.00 684.50 l S
+BT /F2 9.50 Tf 0.080 0.120 0.200 rg 36.00 687.50 Td (5. POSTING STRATEGY: WHICH PROMOS TO POST FIRST & WHY?) Tj ET
+BT /F1 8.50 Tf 0.150 0.150 0.150 rg 36.00 670.50 Td (Running the pipeline across all 50 episodes yielded 214 ranked promos. We established a 3-tier marketing deployment strategy:) Tj ET
+0.980 0.980 1.000 rg
+36.00 623.50 540.00 42.00 re f
+0.200 0.400 0.800 RG
+2.50 w 36.00 623.50 m 36.00 665.50 l S
+BT /F2 8.00 Tf 0.100 0.200 0.500 rg 44.00 657.50 Td (POST #1: Primary Paid User Acquisition Ad \(Meta & TikTok Ads\) -> Episode 1 [00:21.80 -> 01:21.20] \(Score: 9.20/10\)) Tj ET
+BT /F1 7.50 Tf 0.200 0.200 0.200 rg 44.00 647.50 Td (Hook: Matriarch stops bride: 'You should turn around, Juliana' | Cliffhanger: Juliana begs father: 'Father... tell them this is a mistake.') Tj ET
+BT /F1 7.50 Tf 0.300 0.300 0.300 rg 44.00 637.50 Td (Why First: High Standalone Comprehension. Cold paid traffic will not tolerate complex backstories; a bride humiliated at the altar for her cruel) Tj ET
+BT /F1 7.50 Tf 0.300 0.300 0.300 rg 44.00 628.50 Td (sister creates instant emotional outrage that directly drives app installs.) Tj ET
+0.990 0.980 0.980 rg
+36.00 579.50 540.00 42.00 re f
+0.850 0.200 0.200 RG
+2.50 w 36.00 579.50 m 36.00 621.50 l S
+BT /F2 8.00 Tf 0.500 0.100 0.100 rg 44.00 613.50 Td (POST #2: Organic Viral Hook \(TikTok / Reels Algorithmic Loop\) -> Episode 42 [00:18.00 -> 00:39.90] \(Score: 8.80/10\)) Tj ET
+BT /F1 7.50 Tf 0.200 0.200 0.200 rg 44.00 603.50 Td (Hook: Rupert shrieks: 'Guards! Arrest this imposter!' | Cliffhanger: Royal Guard: 'We will not... because we know who he is.') Tj ET
+BT /F1 7.50 Tf 0.300 0.300 0.300 rg 44.00 593.50 Td (Why Second: 5/5 Hook Shock Value. Sudden defiance of authority triggers massive organic replay loops and comment debates, driving free viral) Tj ET
+BT /F1 7.50 Tf 0.300 0.300 0.300 rg 44.00 584.50 Td (reach even among casual non-subscribers.) Tj ET
+0.980 0.990 0.980 rg
+36.00 539.50 540.00 38.00 re f
+0.150 0.600 0.300 RG
+2.50 w 36.00 539.50 m 36.00 577.50 l S
+BT /F2 8.00 Tf 0.100 0.400 0.200 rg 44.00 569.50 Td (POST #3: Mid-Funnel Retargeting \(Cliffhanger Conversion\) -> Episode 34 [00:13.10 -> 00:44.80] \(Score: 8.60/10\)) Tj ET
+BT /F1 7.50 Tf 0.200 0.200 0.200 rg 44.00 559.50 Td (Hook: Witchcraft accusation in dock | Cliffhanger: Maid Prudence steps onto witness stand weeping to give coerced false testimony.) Tj ET
+BT /F1 7.50 Tf 0.300 0.300 0.300 rg 44.00 549.50 Td (Why Third: Maximum cliffhanger urgency \(5/5\). Converts warm users who watched an earlier ad teaser without completing the install.) Tj ET
+0.900 0.150 0.250 RG
+1.00 w 36.00 531.50 m 285.00 531.50 l S
+BT /F2 9.50 Tf 0.080 0.120 0.200 rg 36.00 534.50 Td (6. QUALITY CHECKING: WHERE DOES THE TOOL PICK BADLY?) Tj ET
+BT /F2 8.00 Tf 0.100 0.100 0.100 rg 44.00 517.50 Td (- Subtle Irony & Deadpan Sarcasm:) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 185.00 517.50 Td (Keywords flag overt conflict. A whisper-delivered line like 'How) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 185.00 508.00 Td (delightful to see you, sister' scores lower in Stage 1 keyword density) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 185.00 498.50 Td (despite being a brilliant psychological hook.) Tj ET
+BT /F2 8.00 Tf 0.100 0.100 0.100 rg 44.00 487.00 Td (- Visual-Only Action Beats:) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 185.00 487.00 Td (A silent slap or poison-drop described in CAMERA cues can be penalized) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 185.00 477.50 Td (by the dialogue-density rule unless explicitly written as an ACTION) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 185.00 468.00 Td (beat.) Tj ET
+BT /F2 8.00 Tf 0.100 0.100 0.100 rg 44.00 456.50 Td (- Mid-Sentence Scene Boundaries:) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 185.00 456.50 Td (Windows spanning scene cuts occasionally slice midway through a) Tj ET
+BT /F1 8.00 Tf 0.200 0.200 0.200 rg 185.00 447.00 Td (multi-beat sentence, requiring video audio-cut crossfades.) Tj ET
+0.900 0.150 0.250 RG
+1.00 w 36.00 433.50 m 215.00 433.50 l S
+BT /F2 9.50 Tf 0.080 0.120 0.200 rg 36.00 436.50 Td (7. PRODUCTION SCALING & ECONOMICS) Tj ET
+BT /F1 8.00 Tf 0.150 0.150 0.150 rg 44.00 419.50 Td (- Cost Efficiency: Brute-force LLM calls cost ~$1.50/ep \($150/season\). Two-Stage Hybrid costs <$0.002/ep \($0.18/season\) - a 99.8% cost reduction.) Tj ET
+BT /F1 8.00 Tf 0.150 0.150 0.150 rg 44.00 409.50 Td (- High Throughput: Batch processes an entire 50-episode catalog in under 2 minutes \(214 promos generated\).) Tj ET
+BT /F1 8.00 Tf 0.150 0.150 0.150 rg 44.00 399.50 Td (- Multimodal Expansion Roadmap: Feed rendered MP4s into Gemini 2.0 Flash Video API to score facial expressions and music swell alongside text.) Tj ET
+BT /F1 8.00 Tf 0.500 0.500 0.500 rg 285.00 20.00 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000283 00000 n 
+0000000437 00000 n 
+0000005859 00000 n 
+0000011814 00000 n 
+0000011884 00000 n 
+0000011959 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+12027
+%%EOF

@@ -65,3 +65,4 @@ $$\text{Viral Score} = 2.0 \times \left( 0.4 \times \text{Hook} + 0.4 \times \te
 - **Cost Profile:** Naive LLM evaluation costs ~$1.50/episode ($150 per 100-episode season). Our Two-Stage Hybrid pipeline costs **$0.0018/episode (~$0.18 per 100-episode season)** on Gemini Flash / Claude Haiku — a **99.8% cost reduction**.
 - **Batch Processing:** Can process an entire 50-episode catalog in under 3 minutes via asynchronous background workers.
 - **Future Vision (Multimodal Roadmap):** Feed final video rendered MP4s into Gemini 1.5/2.0 Flash Video API to evaluate facial emotion expressions, actor eye gaze, and background music swell alongside script text.
+
